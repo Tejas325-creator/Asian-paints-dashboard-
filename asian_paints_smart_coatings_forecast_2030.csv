@@ -1,0 +1,41 @@
+Year,Region,Product Type,Sales Volume (KL),Revenue (Crores),Sales Growth %,Market Share %,Gross Margin %,Expansion Events
+2023,India,Decorative Paints,40000,11250,25.00%,37.46%,24.02%,Smart coatings introduced and expansion
+2023,Middle East,Automotive Coatings,3750,1500,25.00%,23.74%,24.86%,Smart coatings introduced and expansion
+2023,Europe,Industrial Coatings,2500,1125,25.00%,51.70%,19.56%,Smart coatings introduced and expansion
+2023,Asia-Pacific,Decorative Paints,18750,5000,25.00%,53.77%,21.13%,Smart coatings introduced and expansion
+2023,Africa,Protective Coatings,6250,1250,25.00%,19.10%,22.57%,Smart coatings introduced and expansion
+2024,India,Decorative Paints,41600,11700,30.00%,46.13%,18.04%,Smart coatings introduced and expansion
+2024,Middle East,Automotive Coatings,3900,1560,30.00%,53.03%,22.78%,Smart coatings introduced and expansion
+2024,Europe,Industrial Coatings,2600,1170,30.00%,29.88%,19.94%,Smart coatings introduced and expansion
+2024,Asia-Pacific,Decorative Paints,19500,5200,30.00%,44.49%,20.61%,Smart coatings introduced and expansion
+2024,Africa,Protective Coatings,6500,1300,30.00%,37.27%,24.90%,Smart coatings introduced and expansion
+2025,India,Decorative Paints,43200,12150,35.00%,55.93%,18.95%,Smart coatings introduced and expansion
+2025,Middle East,Automotive Coatings,4050,1620,35.00%,43.86%,20.48%,Smart coatings introduced and expansion
+2025,Europe,Industrial Coatings,2700,1215,35.00%,28.61%,24.34%,Smart coatings introduced and expansion
+2025,Asia-Pacific,Decorative Paints,20250,5400,35.00%,41.85%,20.06%,Smart coatings introduced and expansion
+2025,Africa,Protective Coatings,6750,1350,35.00%,18.03%,24.46%,Smart coatings introduced and expansion
+2026,India,Decorative Paints,44800,12600,40.00%,22.12%,18.39%,Smart coatings introduced and expansion
+2026,Middle East,Automotive Coatings,4200,1680,40.00%,24.74%,20.49%,Smart coatings introduced and expansion
+2026,Europe,Industrial Coatings,2800,1260,40.00%,39.19%,20.09%,Smart coatings introduced and expansion
+2026,Asia-Pacific,Decorative Paints,21000,5600,40.00%,20.67%,21.91%,Smart coatings introduced and expansion
+2026,Africa,Protective Coatings,7000,1400,40.00%,55.70%,18.29%,Smart coatings introduced and expansion
+2027,India,Decorative Paints,46400,13050,45.00%,21.94%,19.95%,Smart coatings introduced and expansion
+2027,Middle East,Automotive Coatings,4350,1740,45.00%,39.08%,20.85%,Smart coatings introduced and expansion
+2027,Europe,Industrial Coatings,2900,1305,45.00%,32.79%,22.26%,Smart coatings introduced and expansion
+2027,Asia-Pacific,Decorative Paints,21750,5800,45.00%,39.00%,18.36%,Smart coatings introduced and expansion
+2027,Africa,Protective Coatings,7250,1450,45.00%,46.24%,24.79%,Smart coatings introduced and expansion
+2028,India,Decorative Paints,48000,13500,50.00%,44.80%,19.04%,Smart coatings introduced and expansion
+2028,Middle East,Automotive Coatings,4500,1800,50.00%,46.82%,20.83%,Smart coatings introduced and expansion
+2028,Europe,Industrial Coatings,3000,1350,50.00%,43.52%,23.43%,Smart coatings introduced and expansion
+2028,Asia-Pacific,Decorative Paints,22500,6000,50.00%,50.94%,23.77%,Smart coatings introduced and expansion
+2028,Africa,Protective Coatings,7500,1500,50.00%,41.90%,18.73%,Smart coatings introduced and expansion
+2029,India,Decorative Paints,49600,13950,55.00%,30.60%,23.45%,Smart coatings introduced and expansion
+2029,Middle East,Automotive Coatings,4650,1860,55.00%,35.91%,21.75%,Smart coatings introduced and expansion
+2029,Europe,Industrial Coatings,3100,1395,55.00%,47.66%,21.95%,Smart coatings introduced and expansion
+2029,Asia-Pacific,Decorative Paints,23250,6200,55.00%,18.55%,23.87%,Smart coatings introduced and expansion
+2029,Africa,Protective Coatings,7750,1550,55.00%,33.83%,21.24%,Smart coatings introduced and expansion
+2030,India,Decorative Paints,51200,14400,60.00%,23.12%,18.25%,Smart coatings introduced and expansion
+2030,Middle East,Automotive Coatings,4800,1920,60.00%,37.49%,19.30%,Smart coatings introduced and expansion
+2030,Europe,Industrial Coatings,3200,1440,60.00%,46.20%,21.25%,Smart coatings introduced and expansion
+2030,Asia-Pacific,Decorative Paints,24000,6400,60.00%,20.08%,22.56%,Smart coatings introduced and expansion
+2030,Africa,Protective Coatings,8000,1600,60.00%,53.24%,24.63%,Smart coatings introduced and expansion
