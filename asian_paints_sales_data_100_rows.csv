@@ -1,0 +1,701 @@
+Year,Region,Product Type,Sales Volume (KL),Revenue (Crores),Sales Growth %,Market Share %,Gross Margin %,Expansion Events
+1942,India,Decorative Paints,48021,3582,13.88%,40.53%,15.27%,Major sales growth
+1942,India,Industrial Coatings,43880,7106,8.89%,44.06%,21.12%,New product line
+1942,India,Automotive Coatings,13129,6015,14.67%,26.81%,19.79%,Market leader
+1942,India,Protective Coatings,11461,1155,6.08%,12.70%,16.47%,Major sales growth
+1942,India,Powder Coatings,15020,4543,6.86%,23.26%,22.81%,Expansion
+1942,Middle East,Decorative Paints,40344,8704,9.61%,35.78%,21.77%,Technological advancement
+1942,Middle East,Industrial Coatings,46305,8166,10.63%,18.45%,17.91%,Technological advancement
+1942,Middle East,Automotive Coatings,32150,362,11.20%,36.29%,17.54%,Expansion
+1942,Middle East,Protective Coatings,24756,4174,6.48%,36.71%,18.15%,Expansion
+1942,Middle East,Powder Coatings,34933,470,11.84%,38.95%,16.96%,Technological advancement
+1942,Asia-Pacific,Decorative Paints,30589,3080,11.40%,43.63%,23.63%,Technological advancement
+1942,Asia-Pacific,Industrial Coatings,10291,75,13.86%,15.70%,16.83%,Expansion
+1942,Asia-Pacific,Automotive Coatings,18642,4175,11.81%,22.48%,16.21%,Expansion
+1942,Asia-Pacific,Protective Coatings,34658,6264,10.65%,39.57%,18.56%,Major sales growth
+1942,Asia-Pacific,Powder Coatings,36608,3760,11.35%,18.61%,17.69%,New product line
+1942,Africa,Decorative Paints,47624,2567,7.42%,34.30%,15.13%,Expansion
+1942,Africa,Industrial Coatings,13262,7189,11.11%,28.14%,23.61%,New product line
+1942,Africa,Automotive Coatings,47871,6255,13.65%,23.96%,20.01%,New product line
+1942,Africa,Protective Coatings,12187,1751,9.66%,16.38%,18.59%,Market leader
+1942,Africa,Powder Coatings,16086,3088,10.57%,32.18%,20.82%,Market leader
+1942,Europe,Decorative Paints,25419,9102,12.00%,36.09%,17.62%,Major sales growth
+1942,Europe,Industrial Coatings,33829,6800,9.77%,41.45%,22.05%,New product line
+1942,Europe,Automotive Coatings,17742,2324,5.90%,12.75%,23.37%,New product line
+1942,Europe,Protective Coatings,39905,3879,9.41%,26.97%,18.01%,Expansion
+1942,Europe,Powder Coatings,41816,794,7.58%,29.77%,23.60%,Technological advancement
+1945,India,Decorative Paints,18455,9297,10.57%,30.78%,24.28%,Market leader
+1945,India,Industrial Coatings,32490,6405,11.88%,48.29%,23.32%,New product line
+1945,India,Automotive Coatings,23953,1904,5.14%,33.82%,24.38%,Expansion
+1945,India,Protective Coatings,25194,8391,14.70%,49.00%,23.97%,Technological advancement
+1945,India,Powder Coatings,45022,5022,6.16%,34.67%,18.76%,Major sales growth
+1945,Middle East,Decorative Paints,4768,3801,14.95%,44.23%,21.39%,Major sales growth
+1945,Middle East,Industrial Coatings,29128,8243,9.59%,38.14%,18.75%,New product line
+1945,Middle East,Automotive Coatings,11065,1966,5.85%,38.95%,21.63%,Technological advancement
+1945,Middle East,Protective Coatings,24660,217,7.92%,49.54%,23.14%,Expansion
+1945,Middle East,Powder Coatings,41276,6735,9.17%,23.40%,20.26%,Major sales growth
+1945,Asia-Pacific,Decorative Paints,26156,9296,8.20%,45.33%,15.90%,Major sales growth
+1945,Asia-Pacific,Industrial Coatings,40275,9672,13.00%,42.68%,22.52%,Major sales growth
+1945,Asia-Pacific,Automotive Coatings,49791,7713,9.26%,29.76%,15.97%,Major sales growth
+1945,Asia-Pacific,Protective Coatings,18617,9336,14.02%,31.73%,18.18%,Expansion
+1945,Asia-Pacific,Powder Coatings,41963,6728,6.61%,37.33%,15.53%,Market leader
+1945,Africa,Decorative Paints,17595,2155,11.01%,18.11%,18.58%,Major sales growth
+1945,Africa,Industrial Coatings,5368,2967,13.79%,40.63%,23.09%,New product line
+1945,Africa,Automotive Coatings,31475,4078,9.63%,10.74%,20.28%,Major sales growth
+1945,Africa,Protective Coatings,23203,227,13.91%,21.21%,23.95%,Technological advancement
+1945,Africa,Powder Coatings,2085,431,14.01%,20.99%,23.69%,New product line
+1945,Europe,Decorative Paints,4156,2355,9.45%,15.97%,17.78%,New product line
+1945,Europe,Industrial Coatings,45329,9343,8.45%,24.35%,20.29%,Technological advancement
+1945,Europe,Automotive Coatings,27645,3404,7.71%,21.34%,16.81%,Market leader
+1945,Europe,Protective Coatings,37297,5805,5.12%,14.79%,19.16%,Technological advancement
+1945,Europe,Powder Coatings,22022,901,12.69%,15.60%,20.61%,Market leader
+1948,India,Decorative Paints,27304,4258,13.68%,15.06%,22.78%,New product line
+1948,India,Industrial Coatings,19273,9939,9.94%,20.83%,21.06%,Expansion
+1948,India,Automotive Coatings,30396,2055,14.16%,36.65%,19.47%,Expansion
+1948,India,Protective Coatings,39914,422,5.53%,36.47%,16.80%,Market leader
+1948,India,Powder Coatings,19932,9644,9.74%,31.89%,20.82%,Major sales growth
+1948,Middle East,Decorative Paints,39584,9694,12.58%,48.57%,24.11%,Technological advancement
+1948,Middle East,Industrial Coatings,15666,6466,11.46%,45.74%,24.52%,Technological advancement
+1948,Middle East,Automotive Coatings,16297,9384,8.01%,13.42%,17.85%,Technological advancement
+1948,Middle East,Protective Coatings,4588,1849,13.53%,24.76%,24.54%,Technological advancement
+1948,Middle East,Powder Coatings,6831,6642,12.65%,16.32%,15.25%,Expansion
+1948,Asia-Pacific,Decorative Paints,47872,1142,12.48%,12.63%,21.04%,New product line
+1948,Asia-Pacific,Industrial Coatings,21023,119,8.97%,29.16%,20.66%,New product line
+1948,Asia-Pacific,Automotive Coatings,32014,2031,12.37%,34.70%,20.77%,Technological advancement
+1948,Asia-Pacific,Protective Coatings,14502,4241,12.22%,20.24%,17.27%,Technological advancement
+1948,Asia-Pacific,Powder Coatings,17036,6771,10.09%,16.85%,17.04%,Market leader
+1948,Africa,Decorative Paints,21222,292,10.43%,21.83%,18.67%,Major sales growth
+1948,Africa,Industrial Coatings,30791,8413,6.29%,32.20%,15.24%,New product line
+1948,Africa,Automotive Coatings,2354,9617,6.76%,34.62%,21.35%,Expansion
+1948,Africa,Protective Coatings,6141,8024,14.13%,48.73%,15.76%,New product line
+1948,Africa,Powder Coatings,35911,3450,14.25%,30.28%,21.96%,New product line
+1948,Europe,Decorative Paints,6477,7146,8.81%,20.92%,23.94%,Market leader
+1948,Europe,Industrial Coatings,14405,9401,9.78%,12.73%,20.50%,Major sales growth
+1948,Europe,Automotive Coatings,39911,8116,13.47%,26.15%,15.13%,New product line
+1948,Europe,Protective Coatings,9671,568,8.33%,45.88%,16.77%,Technological advancement
+1948,Europe,Powder Coatings,13886,9247,11.94%,38.34%,18.38%,Expansion
+1951,India,Decorative Paints,29078,580,12.20%,19.68%,20.00%,Technological advancement
+1951,India,Industrial Coatings,30323,1651,10.83%,15.00%,17.06%,Major sales growth
+1951,India,Automotive Coatings,2996,1212,6.39%,38.13%,22.90%,Technological advancement
+1951,India,Protective Coatings,6427,7975,11.78%,28.77%,19.80%,Major sales growth
+1951,India,Powder Coatings,11921,6059,13.74%,24.24%,23.26%,New product line
+1951,Middle East,Decorative Paints,26495,6765,6.97%,24.05%,20.49%,Technological advancement
+1951,Middle East,Industrial Coatings,12801,2969,13.81%,41.98%,15.44%,New product line
+1951,Middle East,Automotive Coatings,35980,4763,14.32%,19.84%,17.99%,Expansion
+1951,Middle East,Protective Coatings,46600,9425,13.83%,47.26%,23.75%,Major sales growth
+1951,Middle East,Powder Coatings,10322,6804,6.85%,33.73%,20.85%,New product line
+1951,Asia-Pacific,Decorative Paints,10306,1949,6.02%,37.59%,18.42%,Technological advancement
+1951,Asia-Pacific,Industrial Coatings,14715,2038,14.16%,12.25%,24.81%,New product line
+1951,Asia-Pacific,Automotive Coatings,42195,72,8.46%,28.71%,21.36%,Technological advancement
+1951,Asia-Pacific,Protective Coatings,12363,7159,7.98%,24.53%,16.74%,Expansion
+1951,Asia-Pacific,Powder Coatings,25115,8950,12.08%,45.85%,16.58%,Market leader
+1951,Africa,Decorative Paints,35358,1451,12.25%,28.47%,16.08%,New product line
+1951,Africa,Industrial Coatings,4023,1681,5.90%,26.25%,15.75%,Technological advancement
+1951,Africa,Automotive Coatings,22062,9736,13.80%,39.14%,23.49%,New product line
+1951,Africa,Protective Coatings,24228,1749,7.65%,43.92%,17.18%,Technological advancement
+1951,Africa,Powder Coatings,46968,8602,12.87%,27.80%,23.21%,New product line
+1951,Europe,Decorative Paints,31377,9797,14.44%,30.53%,21.41%,Technological advancement
+1951,Europe,Industrial Coatings,4870,7758,6.40%,42.52%,17.26%,Market leader
+1951,Europe,Automotive Coatings,47290,6796,8.09%,32.34%,18.15%,New product line
+1951,Europe,Protective Coatings,39390,9842,13.71%,48.44%,17.22%,New product line
+1951,Europe,Powder Coatings,17774,8679,11.06%,27.43%,16.59%,Market leader
+1954,India,Decorative Paints,10606,8308,11.39%,29.52%,18.28%,New product line
+1954,India,Industrial Coatings,19008,8743,6.07%,27.12%,15.47%,Expansion
+1954,India,Automotive Coatings,6101,2068,13.53%,34.68%,19.88%,Major sales growth
+1954,India,Protective Coatings,44701,4298,12.16%,30.42%,17.85%,New product line
+1954,India,Powder Coatings,18989,965,13.33%,45.38%,21.69%,Technological advancement
+1954,Middle East,Decorative Paints,2775,5306,8.53%,40.04%,20.77%,New product line
+1954,Middle East,Industrial Coatings,29913,4577,12.14%,33.01%,17.22%,New product line
+1954,Middle East,Automotive Coatings,46141,7295,10.48%,40.46%,20.91%,Market leader
+1954,Middle East,Protective Coatings,27667,4199,9.65%,12.54%,16.59%,New product line
+1954,Middle East,Powder Coatings,11595,2436,12.32%,30.88%,19.48%,Market leader
+1954,Asia-Pacific,Decorative Paints,42330,9774,14.70%,34.97%,17.20%,Major sales growth
+1954,Asia-Pacific,Industrial Coatings,26673,745,9.55%,28.36%,23.93%,Technological advancement
+1954,Asia-Pacific,Automotive Coatings,19519,8342,7.24%,10.02%,18.60%,New product line
+1954,Asia-Pacific,Protective Coatings,30803,2844,14.73%,27.39%,23.95%,Market leader
+1954,Asia-Pacific,Powder Coatings,3998,4173,10.39%,37.86%,17.06%,Market leader
+1954,Africa,Decorative Paints,42453,7882,6.01%,18.54%,20.97%,Technological advancement
+1954,Africa,Industrial Coatings,47163,7463,7.82%,27.21%,21.29%,Market leader
+1954,Africa,Automotive Coatings,36295,848,8.76%,37.45%,17.59%,Technological advancement
+1954,Africa,Protective Coatings,32130,1713,11.64%,43.01%,22.56%,Technological advancement
+1954,Africa,Powder Coatings,49945,502,10.05%,20.23%,21.21%,Technological advancement
+1954,Europe,Decorative Paints,24297,9649,8.30%,19.38%,23.82%,Major sales growth
+1954,Europe,Industrial Coatings,33636,7075,9.40%,29.98%,15.04%,Technological advancement
+1954,Europe,Automotive Coatings,25633,3676,9.58%,23.97%,19.46%,Expansion
+1954,Europe,Protective Coatings,20732,578,11.08%,41.62%,18.36%,Expansion
+1954,Europe,Powder Coatings,40589,538,6.31%,13.85%,16.74%,New product line
+1957,India,Decorative Paints,48287,4976,14.25%,42.18%,22.19%,Expansion
+1957,India,Industrial Coatings,11522,5610,6.48%,14.21%,17.63%,New product line
+1957,India,Automotive Coatings,34785,3108,12.06%,24.90%,20.60%,Market leader
+1957,India,Protective Coatings,22651,2634,5.33%,15.20%,15.78%,Market leader
+1957,India,Powder Coatings,45998,9751,14.80%,30.28%,22.72%,Technological advancement
+1957,Middle East,Decorative Paints,15998,1149,5.81%,13.69%,15.28%,Major sales growth
+1957,Middle East,Industrial Coatings,8040,8927,10.30%,40.10%,22.84%,Technological advancement
+1957,Middle East,Automotive Coatings,10553,347,9.13%,37.91%,15.13%,Expansion
+1957,Middle East,Protective Coatings,44881,4062,10.35%,35.48%,22.24%,Market leader
+1957,Middle East,Powder Coatings,21461,842,14.97%,13.01%,21.06%,New product line
+1957,Asia-Pacific,Decorative Paints,46965,2163,14.54%,41.55%,20.78%,Technological advancement
+1957,Asia-Pacific,Industrial Coatings,5847,2715,12.27%,27.66%,18.93%,Technological advancement
+1957,Asia-Pacific,Automotive Coatings,36221,7249,7.55%,48.23%,19.09%,Technological advancement
+1957,Asia-Pacific,Protective Coatings,34694,3305,9.71%,23.15%,20.29%,Expansion
+1957,Asia-Pacific,Powder Coatings,18943,7690,13.27%,13.81%,24.16%,Major sales growth
+1957,Africa,Decorative Paints,15947,906,14.06%,37.12%,20.82%,Major sales growth
+1957,Africa,Industrial Coatings,27195,964,14.04%,36.39%,18.46%,New product line
+1957,Africa,Automotive Coatings,15094,3730,14.06%,36.42%,22.54%,Market leader
+1957,Africa,Protective Coatings,19796,1752,8.87%,37.12%,23.58%,Market leader
+1957,Africa,Powder Coatings,7811,780,14.82%,39.13%,22.22%,Major sales growth
+1957,Europe,Decorative Paints,3726,3058,8.43%,33.45%,17.94%,Technological advancement
+1957,Europe,Industrial Coatings,6988,8307,7.95%,17.12%,19.47%,Expansion
+1957,Europe,Automotive Coatings,43074,7495,14.00%,16.32%,24.98%,Market leader
+1957,Europe,Protective Coatings,40443,4663,8.74%,30.22%,18.90%,Expansion
+1957,Europe,Powder Coatings,19949,3274,5.79%,40.24%,16.07%,Technological advancement
+1960,India,Decorative Paints,34406,4549,13.26%,35.13%,22.26%,Market leader
+1960,India,Industrial Coatings,10824,8855,14.36%,20.41%,22.52%,New product line
+1960,India,Automotive Coatings,21419,5541,9.11%,49.59%,22.69%,Technological advancement
+1960,India,Protective Coatings,32974,1728,6.06%,23.06%,21.76%,Technological advancement
+1960,India,Powder Coatings,6366,685,13.77%,46.42%,23.23%,New product line
+1960,Middle East,Decorative Paints,47584,3257,11.51%,34.27%,22.61%,New product line
+1960,Middle East,Industrial Coatings,18201,8921,9.22%,41.83%,21.73%,New product line
+1960,Middle East,Automotive Coatings,25495,8036,12.37%,48.94%,20.02%,Expansion
+1960,Middle East,Protective Coatings,21165,8032,9.14%,32.87%,17.05%,New product line
+1960,Middle East,Powder Coatings,27582,8379,13.62%,41.70%,19.02%,Market leader
+1960,Asia-Pacific,Decorative Paints,6564,9161,9.13%,16.34%,15.22%,Major sales growth
+1960,Asia-Pacific,Industrial Coatings,27134,8328,11.84%,42.15%,15.87%,Major sales growth
+1960,Asia-Pacific,Automotive Coatings,16799,3999,13.02%,39.39%,20.91%,Expansion
+1960,Asia-Pacific,Protective Coatings,7089,2772,13.76%,34.73%,22.51%,Market leader
+1960,Asia-Pacific,Powder Coatings,5201,442,5.79%,29.25%,18.56%,Expansion
+1960,Africa,Decorative Paints,49446,2856,13.20%,27.42%,15.35%,Technological advancement
+1960,Africa,Industrial Coatings,16806,6817,7.31%,35.81%,17.70%,Market leader
+1960,Africa,Automotive Coatings,27344,7186,13.27%,47.91%,15.10%,New product line
+1960,Africa,Protective Coatings,17377,5061,6.75%,45.64%,19.28%,Expansion
+1960,Africa,Powder Coatings,35281,7933,6.29%,17.01%,24.68%,Technological advancement
+1960,Europe,Decorative Paints,14453,5836,10.71%,36.13%,18.61%,New product line
+1960,Europe,Industrial Coatings,28264,173,8.25%,17.21%,16.89%,New product line
+1960,Europe,Automotive Coatings,18344,4274,9.04%,49.58%,23.39%,New product line
+1960,Europe,Protective Coatings,29501,6746,11.77%,44.37%,18.74%,Technological advancement
+1960,Europe,Powder Coatings,23300,4215,13.49%,17.84%,20.15%,New product line
+1963,India,Decorative Paints,13887,5782,7.21%,22.28%,23.06%,Market leader
+1963,India,Industrial Coatings,20701,3311,11.66%,21.26%,23.88%,Expansion
+1963,India,Automotive Coatings,32922,6486,5.97%,17.46%,16.05%,Market leader
+1963,India,Protective Coatings,41523,906,7.02%,24.80%,20.17%,New product line
+1963,India,Powder Coatings,3495,8602,12.71%,43.38%,20.28%,Market leader
+1963,Middle East,Decorative Paints,33477,1339,10.62%,44.76%,18.39%,Market leader
+1963,Middle East,Industrial Coatings,45517,6508,7.50%,31.93%,19.14%,Technological advancement
+1963,Middle East,Automotive Coatings,5360,9715,14.41%,19.18%,24.97%,Major sales growth
+1963,Middle East,Protective Coatings,39674,6936,13.66%,18.90%,22.98%,Expansion
+1963,Middle East,Powder Coatings,7459,5355,12.19%,36.14%,18.73%,Expansion
+1963,Asia-Pacific,Decorative Paints,49943,1024,12.21%,45.76%,15.34%,New product line
+1963,Asia-Pacific,Industrial Coatings,28641,6338,11.84%,18.30%,22.62%,Market leader
+1963,Asia-Pacific,Automotive Coatings,38667,9358,5.02%,29.10%,16.52%,Expansion
+1963,Asia-Pacific,Protective Coatings,5416,1095,14.32%,16.27%,18.08%,Market leader
+1963,Asia-Pacific,Powder Coatings,37185,258,10.82%,41.96%,22.33%,Technological advancement
+1963,Africa,Decorative Paints,35990,9901,11.12%,15.97%,20.58%,Expansion
+1963,Africa,Industrial Coatings,9528,3254,5.98%,16.19%,18.69%,Major sales growth
+1963,Africa,Automotive Coatings,31580,2332,7.17%,23.84%,16.57%,Market leader
+1963,Africa,Protective Coatings,8152,4228,14.32%,14.08%,20.78%,Expansion
+1963,Africa,Powder Coatings,40120,7688,8.92%,36.47%,24.12%,Expansion
+1963,Europe,Decorative Paints,4394,5473,13.60%,30.90%,19.42%,Technological advancement
+1963,Europe,Industrial Coatings,26838,1997,12.53%,16.50%,18.03%,Market leader
+1963,Europe,Automotive Coatings,48680,7578,14.61%,32.48%,17.19%,New product line
+1963,Europe,Protective Coatings,30765,6943,10.41%,24.33%,18.86%,New product line
+1963,Europe,Powder Coatings,32393,7245,11.13%,40.60%,21.55%,New product line
+1966,India,Decorative Paints,49864,1249,8.15%,47.10%,24.23%,New product line
+1966,India,Industrial Coatings,18628,2808,6.31%,47.73%,19.11%,Major sales growth
+1966,India,Automotive Coatings,6848,6488,6.88%,24.09%,19.54%,Expansion
+1966,India,Protective Coatings,18454,1708,11.60%,18.08%,22.96%,Market leader
+1966,India,Powder Coatings,32418,5560,13.20%,38.62%,22.42%,Major sales growth
+1966,Middle East,Decorative Paints,44744,6830,13.87%,18.36%,24.84%,Technological advancement
+1966,Middle East,Industrial Coatings,23694,9195,14.77%,33.21%,21.58%,Technological advancement
+1966,Middle East,Automotive Coatings,34013,4259,9.25%,16.20%,19.65%,Major sales growth
+1966,Middle East,Protective Coatings,9842,7243,7.19%,47.16%,18.07%,New product line
+1966,Middle East,Powder Coatings,22894,8054,5.72%,31.98%,17.01%,Market leader
+1966,Asia-Pacific,Decorative Paints,24687,252,11.16%,17.19%,17.31%,New product line
+1966,Asia-Pacific,Industrial Coatings,11659,5919,14.02%,39.63%,23.70%,Technological advancement
+1966,Asia-Pacific,Automotive Coatings,44993,8822,13.87%,39.83%,24.95%,Market leader
+1966,Asia-Pacific,Protective Coatings,12385,2329,8.85%,20.84%,19.81%,New product line
+1966,Asia-Pacific,Powder Coatings,27861,5252,9.09%,27.84%,21.18%,Major sales growth
+1966,Africa,Decorative Paints,47234,1026,9.52%,46.94%,18.48%,Major sales growth
+1966,Africa,Industrial Coatings,34620,4921,11.15%,43.33%,23.94%,Expansion
+1966,Africa,Automotive Coatings,29135,8320,7.80%,38.75%,17.68%,Expansion
+1966,Africa,Protective Coatings,22613,3792,10.30%,31.49%,20.31%,New product line
+1966,Africa,Powder Coatings,35958,683,8.43%,27.93%,17.95%,Technological advancement
+1966,Europe,Decorative Paints,40042,183,8.76%,20.60%,21.76%,Market leader
+1966,Europe,Industrial Coatings,37456,5993,10.08%,24.78%,23.03%,Market leader
+1966,Europe,Automotive Coatings,45828,4196,7.07%,30.33%,23.81%,Expansion
+1966,Europe,Protective Coatings,10886,2224,12.49%,12.29%,21.73%,New product line
+1966,Europe,Powder Coatings,11418,4084,6.96%,49.94%,15.29%,Expansion
+1969,India,Decorative Paints,17132,7256,7.43%,29.40%,15.70%,Expansion
+1969,India,Industrial Coatings,37954,3235,13.41%,16.80%,16.45%,New product line
+1969,India,Automotive Coatings,41523,6166,13.56%,10.03%,16.44%,New product line
+1969,India,Protective Coatings,2775,7261,13.97%,26.72%,19.26%,New product line
+1969,India,Powder Coatings,40975,626,11.58%,19.09%,19.89%,New product line
+1969,Middle East,Decorative Paints,27913,1390,13.18%,44.40%,20.13%,Major sales growth
+1969,Middle East,Industrial Coatings,29662,1162,13.91%,46.81%,16.44%,Expansion
+1969,Middle East,Automotive Coatings,45182,2967,10.48%,29.13%,23.89%,Technological advancement
+1969,Middle East,Protective Coatings,609,4717,5.70%,13.71%,18.48%,Major sales growth
+1969,Middle East,Powder Coatings,16078,1472,13.30%,45.15%,15.61%,New product line
+1969,Asia-Pacific,Decorative Paints,24661,5494,6.41%,33.71%,22.85%,Expansion
+1969,Asia-Pacific,Industrial Coatings,5159,4022,7.26%,36.51%,22.89%,Expansion
+1969,Asia-Pacific,Automotive Coatings,18792,1380,12.52%,49.51%,23.94%,Expansion
+1969,Asia-Pacific,Protective Coatings,20162,5841,8.49%,38.15%,15.58%,New product line
+1969,Asia-Pacific,Powder Coatings,44886,9737,14.03%,47.29%,21.82%,New product line
+1969,Africa,Decorative Paints,22141,4962,10.11%,41.38%,20.65%,Major sales growth
+1969,Africa,Industrial Coatings,9475,8250,9.22%,35.95%,21.06%,Major sales growth
+1969,Africa,Automotive Coatings,33966,7412,5.64%,17.23%,20.08%,Market leader
+1969,Africa,Protective Coatings,9283,7907,14.88%,38.46%,18.58%,Major sales growth
+1969,Africa,Powder Coatings,35161,7396,6.65%,29.87%,18.18%,New product line
+1969,Europe,Decorative Paints,8384,337,8.72%,46.48%,23.15%,Major sales growth
+1969,Europe,Industrial Coatings,49472,6533,12.86%,27.20%,22.29%,New product line
+1969,Europe,Automotive Coatings,36832,6662,10.40%,39.98%,23.01%,New product line
+1969,Europe,Protective Coatings,30514,4348,14.26%,11.08%,23.34%,Expansion
+1969,Europe,Powder Coatings,40005,9458,9.51%,15.24%,23.53%,Technological advancement
+1972,India,Decorative Paints,24200,6190,9.67%,13.97%,17.68%,Major sales growth
+1972,India,Industrial Coatings,45705,4919,9.70%,27.60%,24.39%,Expansion
+1972,India,Automotive Coatings,12233,8654,14.35%,22.96%,19.28%,Major sales growth
+1972,India,Protective Coatings,4646,1649,10.69%,18.32%,19.96%,Market leader
+1972,India,Powder Coatings,33510,5871,12.41%,29.56%,21.08%,Technological advancement
+1972,Middle East,Decorative Paints,34647,3294,10.59%,45.42%,18.63%,Major sales growth
+1972,Middle East,Industrial Coatings,20881,4699,11.94%,41.78%,19.31%,Major sales growth
+1972,Middle East,Automotive Coatings,29795,208,12.26%,16.40%,17.11%,Major sales growth
+1972,Middle East,Protective Coatings,48684,8694,6.62%,33.09%,15.83%,Expansion
+1972,Middle East,Powder Coatings,30524,6099,6.08%,10.71%,18.26%,Market leader
+1972,Asia-Pacific,Decorative Paints,6893,7119,7.35%,48.73%,22.23%,Major sales growth
+1972,Asia-Pacific,Industrial Coatings,46369,8754,9.07%,45.90%,21.68%,Expansion
+1972,Asia-Pacific,Automotive Coatings,32686,9314,11.28%,38.72%,17.68%,Market leader
+1972,Asia-Pacific,Protective Coatings,15258,1686,9.61%,36.26%,20.17%,Expansion
+1972,Asia-Pacific,Powder Coatings,37092,6401,13.89%,33.12%,15.44%,Major sales growth
+1972,Africa,Decorative Paints,37716,257,10.65%,39.88%,19.54%,New product line
+1972,Africa,Industrial Coatings,15665,9884,10.44%,46.83%,15.66%,Technological advancement
+1972,Africa,Automotive Coatings,14192,5403,13.96%,19.71%,18.08%,Major sales growth
+1972,Africa,Protective Coatings,36221,7919,12.12%,19.45%,24.10%,New product line
+1972,Africa,Powder Coatings,35801,3600,5.07%,33.65%,21.16%,Expansion
+1972,Europe,Decorative Paints,49755,3053,6.20%,41.49%,19.86%,Market leader
+1972,Europe,Industrial Coatings,13892,808,8.90%,29.02%,21.56%,New product line
+1972,Europe,Automotive Coatings,28302,2123,11.38%,32.32%,23.30%,Expansion
+1972,Europe,Protective Coatings,35767,9417,5.63%,22.58%,20.02%,Expansion
+1972,Europe,Powder Coatings,31824,3417,12.54%,14.19%,21.48%,Expansion
+1975,India,Decorative Paints,42508,3241,5.47%,48.48%,15.06%,Market leader
+1975,India,Industrial Coatings,24095,2561,6.84%,27.09%,22.90%,New product line
+1975,India,Automotive Coatings,15732,8395,12.21%,49.32%,20.25%,Technological advancement
+1975,India,Protective Coatings,33271,8494,12.24%,49.20%,20.93%,Major sales growth
+1975,India,Powder Coatings,32198,8660,5.48%,38.24%,20.94%,Expansion
+1975,Middle East,Decorative Paints,37577,7835,8.28%,20.34%,18.97%,New product line
+1975,Middle East,Industrial Coatings,2885,6873,8.24%,46.67%,22.34%,Market leader
+1975,Middle East,Automotive Coatings,42560,1539,5.12%,15.93%,17.92%,Major sales growth
+1975,Middle East,Protective Coatings,25765,6673,13.50%,37.49%,15.95%,New product line
+1975,Middle East,Powder Coatings,2561,8197,7.93%,18.19%,24.34%,New product line
+1975,Asia-Pacific,Decorative Paints,26943,5442,11.50%,38.41%,22.19%,New product line
+1975,Asia-Pacific,Industrial Coatings,34078,4309,6.31%,19.37%,19.77%,Major sales growth
+1975,Asia-Pacific,Automotive Coatings,7619,3312,12.48%,35.39%,23.85%,Expansion
+1975,Asia-Pacific,Protective Coatings,20436,864,13.42%,22.71%,21.10%,Major sales growth
+1975,Asia-Pacific,Powder Coatings,43840,1655,9.13%,33.90%,22.29%,Expansion
+1975,Africa,Decorative Paints,38666,5948,7.50%,44.61%,15.33%,Expansion
+1975,Africa,Industrial Coatings,41946,9545,7.80%,35.21%,17.33%,Expansion
+1975,Africa,Automotive Coatings,20837,3666,9.08%,38.00%,21.43%,Market leader
+1975,Africa,Protective Coatings,13991,8856,6.01%,17.26%,23.16%,New product line
+1975,Africa,Powder Coatings,4652,8306,13.45%,49.46%,16.62%,New product line
+1975,Europe,Decorative Paints,31969,4657,5.98%,34.28%,21.04%,Market leader
+1975,Europe,Industrial Coatings,20894,3541,12.90%,25.44%,19.73%,Technological advancement
+1975,Europe,Automotive Coatings,29375,5618,10.50%,24.28%,22.92%,Major sales growth
+1975,Europe,Protective Coatings,22937,3226,13.48%,15.29%,21.27%,Market leader
+1975,Europe,Powder Coatings,7942,1600,13.94%,20.60%,23.06%,Expansion
+1978,India,Decorative Paints,9678,6090,5.81%,12.53%,18.30%,Major sales growth
+1978,India,Industrial Coatings,9999,8286,13.02%,32.77%,23.60%,Market leader
+1978,India,Automotive Coatings,5969,4666,7.24%,31.47%,24.34%,Major sales growth
+1978,India,Protective Coatings,2580,4143,8.78%,48.11%,18.63%,New product line
+1978,India,Powder Coatings,30297,8323,12.75%,34.47%,21.67%,Expansion
+1978,Middle East,Decorative Paints,48939,9750,12.60%,45.34%,21.27%,Market leader
+1978,Middle East,Industrial Coatings,39360,1970,12.89%,22.94%,15.89%,Technological advancement
+1978,Middle East,Automotive Coatings,47067,91,11.35%,46.12%,17.29%,Major sales growth
+1978,Middle East,Protective Coatings,20018,3284,14.69%,21.01%,21.38%,New product line
+1978,Middle East,Powder Coatings,9176,8114,13.62%,42.48%,19.38%,New product line
+1978,Asia-Pacific,Decorative Paints,41776,9123,9.84%,23.87%,15.93%,New product line
+1978,Asia-Pacific,Industrial Coatings,14019,3033,9.57%,23.36%,15.49%,Technological advancement
+1978,Asia-Pacific,Automotive Coatings,10861,654,9.76%,44.41%,24.59%,Expansion
+1978,Asia-Pacific,Protective Coatings,23870,4062,14.29%,23.29%,23.53%,Technological advancement
+1978,Asia-Pacific,Powder Coatings,49941,3577,6.86%,21.43%,19.50%,Market leader
+1978,Africa,Decorative Paints,41580,7974,12.20%,42.62%,24.88%,Market leader
+1978,Africa,Industrial Coatings,6450,4786,13.72%,20.04%,17.61%,Expansion
+1978,Africa,Automotive Coatings,2892,8272,11.42%,19.54%,20.85%,Market leader
+1978,Africa,Protective Coatings,11104,1689,8.24%,19.43%,16.87%,Expansion
+1978,Africa,Powder Coatings,25421,8139,11.74%,24.04%,19.87%,Major sales growth
+1978,Europe,Decorative Paints,11206,6957,11.07%,15.82%,18.40%,New product line
+1978,Europe,Industrial Coatings,29351,8576,12.40%,28.29%,18.11%,Expansion
+1978,Europe,Automotive Coatings,15895,6471,9.03%,10.43%,18.59%,Major sales growth
+1978,Europe,Protective Coatings,33715,8924,9.63%,29.55%,21.19%,Technological advancement
+1978,Europe,Powder Coatings,21002,83,14.80%,43.19%,20.38%,Expansion
+1981,India,Decorative Paints,16653,344,8.34%,16.03%,22.80%,Technological advancement
+1981,India,Industrial Coatings,17403,5962,12.15%,22.49%,24.19%,New product line
+1981,India,Automotive Coatings,45281,1167,9.15%,47.72%,23.24%,Expansion
+1981,India,Protective Coatings,27890,1546,9.64%,14.10%,23.73%,New product line
+1981,India,Powder Coatings,43096,6481,6.77%,12.87%,15.94%,New product line
+1981,Middle East,Decorative Paints,4746,1170,12.64%,35.92%,18.39%,Expansion
+1981,Middle East,Industrial Coatings,43160,4787,9.19%,27.64%,21.12%,Major sales growth
+1981,Middle East,Automotive Coatings,46871,5582,5.50%,44.12%,22.24%,Technological advancement
+1981,Middle East,Protective Coatings,34267,7071,13.80%,18.94%,18.70%,Major sales growth
+1981,Middle East,Powder Coatings,7866,1401,9.84%,10.08%,16.18%,New product line
+1981,Asia-Pacific,Decorative Paints,18755,2350,9.61%,43.34%,21.00%,Expansion
+1981,Asia-Pacific,Industrial Coatings,2171,5817,10.61%,47.05%,17.73%,Major sales growth
+1981,Asia-Pacific,Automotive Coatings,27527,5371,14.71%,44.11%,22.06%,Major sales growth
+1981,Asia-Pacific,Protective Coatings,48660,9007,5.02%,49.60%,19.85%,New product line
+1981,Asia-Pacific,Powder Coatings,36758,4543,5.95%,30.37%,20.01%,Major sales growth
+1981,Africa,Decorative Paints,20597,5562,5.40%,20.54%,18.44%,Expansion
+1981,Africa,Industrial Coatings,13922,6143,9.18%,22.61%,19.85%,Major sales growth
+1981,Africa,Automotive Coatings,42287,4257,10.30%,21.13%,20.99%,Technological advancement
+1981,Africa,Protective Coatings,35025,9375,7.19%,13.17%,16.67%,Expansion
+1981,Africa,Powder Coatings,41724,436,6.42%,48.17%,20.23%,New product line
+1981,Europe,Decorative Paints,12924,1212,6.07%,35.38%,16.37%,Expansion
+1981,Europe,Industrial Coatings,20183,4755,8.25%,38.27%,16.40%,Expansion
+1981,Europe,Automotive Coatings,28951,3433,13.21%,27.05%,22.36%,New product line
+1981,Europe,Protective Coatings,6129,784,14.42%,33.14%,15.81%,Expansion
+1981,Europe,Powder Coatings,27476,7703,8.19%,39.92%,15.39%,New product line
+1984,India,Decorative Paints,48118,8210,10.24%,30.71%,23.58%,Major sales growth
+1984,India,Industrial Coatings,8086,168,11.91%,29.99%,23.46%,Major sales growth
+1984,India,Automotive Coatings,41675,569,7.93%,32.04%,15.68%,Expansion
+1984,India,Protective Coatings,17688,2733,7.42%,16.26%,19.29%,Major sales growth
+1984,India,Powder Coatings,49717,3885,11.84%,29.31%,22.98%,Expansion
+1984,Middle East,Decorative Paints,7835,3722,13.07%,36.93%,16.61%,Expansion
+1984,Middle East,Industrial Coatings,47055,9546,5.55%,16.26%,15.54%,New product line
+1984,Middle East,Automotive Coatings,30879,2504,6.89%,27.74%,22.49%,Major sales growth
+1984,Middle East,Protective Coatings,49226,8406,8.09%,48.22%,23.25%,Technological advancement
+1984,Middle East,Powder Coatings,6831,1529,10.60%,10.37%,15.10%,Expansion
+1984,Asia-Pacific,Decorative Paints,1580,9662,12.80%,45.18%,22.24%,Expansion
+1984,Asia-Pacific,Industrial Coatings,15233,6814,7.62%,25.36%,15.45%,New product line
+1984,Asia-Pacific,Automotive Coatings,14111,5531,5.92%,10.25%,15.89%,Technological advancement
+1984,Asia-Pacific,Protective Coatings,5343,942,12.31%,24.44%,18.74%,New product line
+1984,Asia-Pacific,Powder Coatings,13533,7759,14.03%,23.86%,15.97%,Market leader
+1984,Africa,Decorative Paints,27283,4201,7.16%,40.71%,20.91%,Technological advancement
+1984,Africa,Industrial Coatings,42215,5153,6.23%,19.30%,23.76%,Technological advancement
+1984,Africa,Automotive Coatings,48667,5568,5.06%,39.75%,21.84%,Expansion
+1984,Africa,Protective Coatings,6777,8613,13.63%,40.57%,15.46%,Market leader
+1984,Africa,Powder Coatings,2536,3794,8.00%,34.10%,22.62%,Expansion
+1984,Europe,Decorative Paints,12727,1344,8.77%,44.25%,20.77%,Market leader
+1984,Europe,Industrial Coatings,8858,6772,14.26%,21.23%,18.84%,Major sales growth
+1984,Europe,Automotive Coatings,46951,4155,5.21%,13.70%,24.73%,Major sales growth
+1984,Europe,Protective Coatings,22677,633,11.81%,29.29%,21.79%,New product line
+1984,Europe,Powder Coatings,2303,58,11.71%,15.59%,21.97%,Expansion
+1987,India,Decorative Paints,6094,1701,7.86%,46.39%,23.95%,Market leader
+1987,India,Industrial Coatings,23075,5134,10.97%,13.02%,22.47%,Expansion
+1987,India,Automotive Coatings,42760,7422,13.07%,21.60%,19.84%,Technological advancement
+1987,India,Protective Coatings,14288,6248,14.36%,17.16%,22.64%,Expansion
+1987,India,Powder Coatings,35576,7000,14.02%,13.92%,21.15%,Technological advancement
+1987,Middle East,Decorative Paints,32248,3028,6.23%,18.55%,15.79%,Major sales growth
+1987,Middle East,Industrial Coatings,24911,3218,7.58%,13.46%,17.13%,Technological advancement
+1987,Middle East,Automotive Coatings,27203,821,6.03%,12.38%,20.12%,Technological advancement
+1987,Middle East,Protective Coatings,19038,7557,13.78%,12.32%,21.83%,New product line
+1987,Middle East,Powder Coatings,26992,8948,5.92%,21.44%,24.90%,New product line
+1987,Asia-Pacific,Decorative Paints,1847,3985,12.06%,16.17%,18.37%,Major sales growth
+1987,Asia-Pacific,Industrial Coatings,40492,6172,8.89%,11.04%,20.90%,Major sales growth
+1987,Asia-Pacific,Automotive Coatings,39276,330,9.86%,23.26%,20.28%,Expansion
+1987,Asia-Pacific,Protective Coatings,24299,5018,14.18%,16.08%,16.54%,Major sales growth
+1987,Asia-Pacific,Powder Coatings,21826,9283,14.74%,30.53%,18.79%,Market leader
+1987,Africa,Decorative Paints,38554,670,7.96%,30.29%,19.09%,Expansion
+1987,Africa,Industrial Coatings,30074,110,11.90%,22.38%,22.50%,Expansion
+1987,Africa,Automotive Coatings,21029,8845,9.46%,21.31%,22.29%,New product line
+1987,Africa,Protective Coatings,33196,2083,13.69%,28.91%,22.04%,New product line
+1987,Africa,Powder Coatings,45393,1162,5.20%,18.78%,20.97%,New product line
+1987,Europe,Decorative Paints,32027,6538,10.00%,39.36%,21.21%,Technological advancement
+1987,Europe,Industrial Coatings,30998,5570,12.00%,20.12%,18.40%,Technological advancement
+1987,Europe,Automotive Coatings,29796,8840,6.94%,40.92%,20.90%,Expansion
+1987,Europe,Protective Coatings,34628,4766,10.93%,17.11%,23.15%,New product line
+1987,Europe,Powder Coatings,41106,8334,13.50%,21.87%,23.63%,Technological advancement
+1990,India,Decorative Paints,47942,2583,5.60%,13.03%,19.89%,Market leader
+1990,India,Industrial Coatings,43836,3472,11.36%,44.74%,17.90%,Market leader
+1990,India,Automotive Coatings,4475,8679,5.48%,47.69%,15.30%,Expansion
+1990,India,Protective Coatings,34576,6091,5.43%,11.46%,23.59%,New product line
+1990,India,Powder Coatings,9646,3394,5.97%,48.05%,17.94%,Expansion
+1990,Middle East,Decorative Paints,22796,522,12.98%,49.15%,21.32%,Technological advancement
+1990,Middle East,Industrial Coatings,4888,5998,6.16%,12.68%,17.56%,Market leader
+1990,Middle East,Automotive Coatings,4795,3690,8.66%,25.92%,18.92%,Market leader
+1990,Middle East,Protective Coatings,28354,7614,5.79%,22.94%,15.75%,Major sales growth
+1990,Middle East,Powder Coatings,4496,4734,9.13%,43.08%,25.00%,Technological advancement
+1990,Asia-Pacific,Decorative Paints,38436,2496,14.85%,47.96%,21.16%,Technological advancement
+1990,Asia-Pacific,Industrial Coatings,9694,1998,7.64%,43.99%,19.91%,New product line
+1990,Asia-Pacific,Automotive Coatings,2225,8373,5.28%,13.79%,21.30%,New product line
+1990,Asia-Pacific,Protective Coatings,26629,9163,12.95%,32.98%,18.04%,Technological advancement
+1990,Asia-Pacific,Powder Coatings,4061,3815,11.95%,31.09%,23.08%,Technological advancement
+1990,Africa,Decorative Paints,28450,9053,14.90%,37.36%,16.75%,Expansion
+1990,Africa,Industrial Coatings,30538,9230,7.53%,40.29%,18.98%,New product line
+1990,Africa,Automotive Coatings,41432,6766,9.36%,14.28%,24.68%,Expansion
+1990,Africa,Protective Coatings,34204,5736,6.63%,31.19%,23.79%,Market leader
+1990,Africa,Powder Coatings,14903,4050,14.92%,21.25%,17.29%,Technological advancement
+1990,Europe,Decorative Paints,16334,4718,13.63%,39.12%,24.51%,Expansion
+1990,Europe,Industrial Coatings,2427,1493,5.72%,12.31%,19.67%,Major sales growth
+1990,Europe,Automotive Coatings,34393,8785,5.33%,28.96%,24.41%,New product line
+1990,Europe,Protective Coatings,16638,4550,9.87%,18.23%,16.18%,Technological advancement
+1990,Europe,Powder Coatings,7280,6223,6.25%,13.83%,20.78%,Market leader
+1993,India,Decorative Paints,10933,5102,8.88%,25.44%,23.57%,Technological advancement
+1993,India,Industrial Coatings,9981,3013,10.75%,47.43%,19.58%,Technological advancement
+1993,India,Automotive Coatings,14730,3697,9.37%,25.35%,19.58%,New product line
+1993,India,Protective Coatings,17416,8198,13.13%,42.43%,18.53%,Major sales growth
+1993,India,Powder Coatings,12637,2942,9.77%,31.43%,23.56%,Technological advancement
+1993,Middle East,Decorative Paints,41969,2019,10.32%,12.64%,16.16%,Market leader
+1993,Middle East,Industrial Coatings,1822,3762,14.11%,25.71%,19.91%,Major sales growth
+1993,Middle East,Automotive Coatings,49688,7046,12.32%,12.86%,23.30%,Market leader
+1993,Middle East,Protective Coatings,28125,2636,5.42%,35.34%,19.73%,Technological advancement
+1993,Middle East,Powder Coatings,47428,6499,13.44%,29.65%,21.12%,New product line
+1993,Asia-Pacific,Decorative Paints,19586,7991,13.37%,15.22%,17.66%,New product line
+1993,Asia-Pacific,Industrial Coatings,48528,4580,5.37%,17.74%,22.58%,Market leader
+1993,Asia-Pacific,Automotive Coatings,23881,6802,12.43%,39.74%,16.28%,Market leader
+1993,Asia-Pacific,Protective Coatings,36981,7914,9.53%,27.42%,17.69%,Major sales growth
+1993,Asia-Pacific,Powder Coatings,14681,3227,11.12%,10.28%,16.09%,Major sales growth
+1993,Africa,Decorative Paints,26993,191,7.27%,47.06%,18.02%,Market leader
+1993,Africa,Industrial Coatings,22063,5096,7.59%,15.62%,22.47%,New product line
+1993,Africa,Automotive Coatings,14634,5820,13.63%,16.04%,20.93%,Market leader
+1993,Africa,Protective Coatings,43036,1835,6.86%,48.76%,24.41%,Major sales growth
+1993,Africa,Powder Coatings,28065,8252,13.04%,22.15%,17.77%,Market leader
+1993,Europe,Decorative Paints,47419,8202,10.97%,13.50%,20.26%,Major sales growth
+1993,Europe,Industrial Coatings,12208,2928,10.42%,46.10%,20.48%,New product line
+1993,Europe,Automotive Coatings,30526,4776,12.37%,44.84%,19.41%,Technological advancement
+1993,Europe,Protective Coatings,33938,8020,14.30%,48.94%,19.84%,Major sales growth
+1993,Europe,Powder Coatings,41041,1151,8.57%,49.18%,15.77%,Major sales growth
+1996,India,Decorative Paints,22772,2981,8.10%,16.84%,15.52%,Expansion
+1996,India,Industrial Coatings,40237,3418,13.77%,29.83%,18.93%,Technological advancement
+1996,India,Automotive Coatings,42068,6180,5.27%,33.23%,18.53%,Market leader
+1996,India,Protective Coatings,47104,8220,11.65%,21.37%,17.31%,Major sales growth
+1996,India,Powder Coatings,1949,162,14.85%,16.59%,20.35%,Expansion
+1996,Middle East,Decorative Paints,24538,237,10.15%,25.60%,19.11%,Technological advancement
+1996,Middle East,Industrial Coatings,35055,5497,10.94%,32.63%,17.45%,Market leader
+1996,Middle East,Automotive Coatings,9425,4806,14.68%,32.61%,19.17%,Expansion
+1996,Middle East,Protective Coatings,24123,2607,11.10%,13.09%,22.14%,Technological advancement
+1996,Middle East,Powder Coatings,30470,5160,6.17%,40.02%,18.06%,Major sales growth
+1996,Asia-Pacific,Decorative Paints,21667,9595,10.44%,21.47%,15.85%,New product line
+1996,Asia-Pacific,Industrial Coatings,37908,6527,11.41%,13.57%,24.06%,Expansion
+1996,Asia-Pacific,Automotive Coatings,23431,2286,9.92%,16.37%,17.64%,Technological advancement
+1996,Asia-Pacific,Protective Coatings,25174,4251,7.38%,42.45%,22.38%,New product line
+1996,Asia-Pacific,Powder Coatings,14251,1428,8.95%,12.92%,20.06%,Major sales growth
+1996,Africa,Decorative Paints,21074,5386,13.42%,19.86%,21.27%,New product line
+1996,Africa,Industrial Coatings,32376,4863,11.64%,49.03%,19.94%,Technological advancement
+1996,Africa,Automotive Coatings,3591,7746,9.25%,18.86%,19.93%,New product line
+1996,Africa,Protective Coatings,47110,9391,12.08%,16.43%,23.91%,Technological advancement
+1996,Africa,Powder Coatings,5836,5233,7.45%,42.24%,21.10%,Technological advancement
+1996,Europe,Decorative Paints,6617,4811,10.50%,33.01%,21.28%,Technological advancement
+1996,Europe,Industrial Coatings,40463,1477,6.58%,14.27%,16.80%,Expansion
+1996,Europe,Automotive Coatings,10285,6785,5.17%,25.09%,15.22%,Technological advancement
+1996,Europe,Protective Coatings,8997,5909,6.30%,45.44%,24.81%,Technological advancement
+1996,Europe,Powder Coatings,9718,8509,9.81%,20.41%,24.66%,Market leader
+1999,India,Decorative Paints,3363,6037,5.35%,42.34%,17.82%,New product line
+1999,India,Industrial Coatings,25854,5647,5.38%,33.67%,20.13%,Technological advancement
+1999,India,Automotive Coatings,10836,8166,9.79%,44.70%,22.72%,Major sales growth
+1999,India,Protective Coatings,25586,1848,13.75%,17.66%,22.32%,New product line
+1999,India,Powder Coatings,18410,6869,13.56%,28.07%,18.40%,Expansion
+1999,Middle East,Decorative Paints,12297,486,9.76%,23.28%,17.81%,Technological advancement
+1999,Middle East,Industrial Coatings,44640,8816,9.15%,10.61%,16.98%,Technological advancement
+1999,Middle East,Automotive Coatings,19671,2184,5.95%,47.36%,18.86%,Expansion
+1999,Middle East,Protective Coatings,33712,4202,13.99%,17.94%,23.98%,Major sales growth
+1999,Middle East,Powder Coatings,37556,4422,7.10%,47.45%,23.48%,New product line
+1999,Asia-Pacific,Decorative Paints,44460,6556,8.82%,23.28%,23.55%,Market leader
+1999,Asia-Pacific,Industrial Coatings,36269,5283,11.10%,21.30%,22.89%,Technological advancement
+1999,Asia-Pacific,Automotive Coatings,16328,5083,13.21%,10.52%,18.11%,Market leader
+1999,Asia-Pacific,Protective Coatings,26318,7755,6.39%,46.43%,15.37%,Expansion
+1999,Asia-Pacific,Powder Coatings,6844,4143,10.58%,11.03%,19.26%,Expansion
+1999,Africa,Decorative Paints,42443,74,5.45%,36.01%,15.61%,Technological advancement
+1999,Africa,Industrial Coatings,11012,6956,12.04%,44.37%,17.04%,Technological advancement
+1999,Africa,Automotive Coatings,38773,5999,10.57%,18.00%,18.60%,Market leader
+1999,Africa,Protective Coatings,19495,8613,12.53%,16.93%,16.94%,New product line
+1999,Africa,Powder Coatings,29446,243,7.20%,22.76%,16.74%,New product line
+1999,Europe,Decorative Paints,48351,6315,12.95%,38.11%,22.98%,Market leader
+1999,Europe,Industrial Coatings,33678,3609,13.51%,40.64%,20.81%,Technological advancement
+1999,Europe,Automotive Coatings,17695,4256,12.42%,45.18%,17.24%,New product line
+1999,Europe,Protective Coatings,49016,2406,10.05%,30.07%,20.14%,New product line
+1999,Europe,Powder Coatings,13854,6143,6.38%,35.82%,24.95%,New product line
+2002,India,Decorative Paints,39314,4861,6.89%,41.49%,17.05%,Technological advancement
+2002,India,Industrial Coatings,36493,556,12.62%,34.04%,23.80%,Major sales growth
+2002,India,Automotive Coatings,4903,7739,9.20%,23.50%,23.76%,Major sales growth
+2002,India,Protective Coatings,33914,7241,8.31%,30.53%,20.70%,Expansion
+2002,India,Powder Coatings,33818,3398,13.67%,35.86%,22.72%,Market leader
+2002,Middle East,Decorative Paints,17370,7439,13.16%,34.98%,17.19%,Major sales growth
+2002,Middle East,Industrial Coatings,30513,2881,8.59%,28.42%,21.56%,Major sales growth
+2002,Middle East,Automotive Coatings,35978,4759,10.09%,19.79%,18.95%,Market leader
+2002,Middle East,Protective Coatings,34154,723,11.11%,37.34%,23.03%,New product line
+2002,Middle East,Powder Coatings,1727,3063,13.08%,24.64%,17.43%,Expansion
+2002,Asia-Pacific,Decorative Paints,17112,3792,8.65%,23.80%,24.50%,Technological advancement
+2002,Asia-Pacific,Industrial Coatings,49739,8154,10.78%,44.64%,20.31%,Major sales growth
+2002,Asia-Pacific,Automotive Coatings,46289,354,13.91%,40.17%,24.56%,Major sales growth
+2002,Asia-Pacific,Protective Coatings,16146,679,9.65%,37.58%,23.18%,Market leader
+2002,Asia-Pacific,Powder Coatings,45137,2317,11.43%,36.61%,19.68%,Expansion
+2002,Africa,Decorative Paints,19740,2264,7.28%,38.50%,24.79%,Major sales growth
+2002,Africa,Industrial Coatings,35384,4528,13.25%,30.02%,19.26%,Expansion
+2002,Africa,Automotive Coatings,42308,3796,12.70%,40.74%,23.23%,Technological advancement
+2002,Africa,Protective Coatings,7212,3782,8.77%,39.68%,21.35%,Technological advancement
+2002,Africa,Powder Coatings,26990,3551,14.81%,26.31%,16.06%,Major sales growth
+2002,Europe,Decorative Paints,46497,2100,5.22%,24.60%,17.43%,Market leader
+2002,Europe,Industrial Coatings,1058,5872,11.90%,10.47%,20.09%,Market leader
+2002,Europe,Automotive Coatings,45391,3515,12.84%,15.10%,21.72%,Expansion
+2002,Europe,Protective Coatings,21813,1481,5.99%,39.29%,17.55%,Major sales growth
+2002,Europe,Powder Coatings,8450,6501,12.59%,24.85%,22.49%,Market leader
+2005,India,Decorative Paints,49494,3515,8.44%,22.73%,15.06%,Market leader
+2005,India,Industrial Coatings,26227,3358,8.99%,38.38%,24.64%,Technological advancement
+2005,India,Automotive Coatings,38061,5126,8.42%,49.33%,24.78%,Expansion
+2005,India,Protective Coatings,39114,8300,5.55%,47.17%,17.72%,Market leader
+2005,India,Powder Coatings,40656,8498,11.92%,12.35%,22.22%,Market leader
+2005,Middle East,Decorative Paints,14892,6175,12.39%,28.11%,16.15%,New product line
+2005,Middle East,Industrial Coatings,27373,928,12.67%,35.62%,16.74%,Market leader
+2005,Middle East,Automotive Coatings,23287,8944,10.72%,10.24%,20.95%,Expansion
+2005,Middle East,Protective Coatings,46925,8033,10.03%,32.66%,15.26%,New product line
+2005,Middle East,Powder Coatings,29601,5161,10.39%,21.44%,19.99%,Market leader
+2005,Asia-Pacific,Decorative Paints,10871,2402,11.29%,38.30%,23.15%,Technological advancement
+2005,Asia-Pacific,Industrial Coatings,12735,8184,14.33%,49.33%,19.57%,Technological advancement
+2005,Asia-Pacific,Automotive Coatings,48516,4128,8.10%,38.19%,21.98%,Major sales growth
+2005,Asia-Pacific,Protective Coatings,38684,3068,8.08%,18.37%,21.03%,Major sales growth
+2005,Asia-Pacific,Powder Coatings,2111,2007,10.41%,14.38%,22.88%,Technological advancement
+2005,Africa,Decorative Paints,14344,6842,5.73%,32.69%,17.64%,New product line
+2005,Africa,Industrial Coatings,6908,2425,9.70%,25.57%,16.71%,Major sales growth
+2005,Africa,Automotive Coatings,12091,2790,9.89%,18.58%,16.93%,New product line
+2005,Africa,Protective Coatings,5607,3195,6.18%,36.35%,24.11%,Major sales growth
+2005,Africa,Powder Coatings,12652,9458,6.07%,24.81%,15.93%,Expansion
+2005,Europe,Decorative Paints,13160,2488,12.58%,14.87%,15.34%,Expansion
+2005,Europe,Industrial Coatings,32989,2524,10.88%,18.18%,18.54%,Major sales growth
+2005,Europe,Automotive Coatings,37426,55,5.77%,26.02%,19.80%,New product line
+2005,Europe,Protective Coatings,25074,9876,14.11%,31.23%,23.86%,Expansion
+2005,Europe,Powder Coatings,24709,7540,5.69%,13.06%,21.95%,New product line
+2008,India,Decorative Paints,45631,2511,8.21%,38.02%,23.90%,New product line
+2008,India,Industrial Coatings,25462,7018,10.87%,44.82%,17.80%,Technological advancement
+2008,India,Automotive Coatings,30162,382,13.25%,35.15%,18.04%,Major sales growth
+2008,India,Protective Coatings,39158,5639,13.79%,38.77%,21.93%,Market leader
+2008,India,Powder Coatings,11565,8662,12.33%,46.57%,17.98%,Expansion
+2008,Middle East,Decorative Paints,23996,7572,11.77%,14.68%,16.10%,Market leader
+2008,Middle East,Industrial Coatings,13149,2389,14.64%,15.46%,22.84%,Technological advancement
+2008,Middle East,Automotive Coatings,49085,5839,6.25%,11.93%,15.55%,Expansion
+2008,Middle East,Protective Coatings,49301,422,9.00%,18.80%,23.78%,Technological advancement
+2008,Middle East,Powder Coatings,30879,5798,6.66%,21.38%,20.13%,Major sales growth
+2008,Asia-Pacific,Decorative Paints,12930,2527,7.60%,49.09%,17.90%,Major sales growth
+2008,Asia-Pacific,Industrial Coatings,24104,6913,7.11%,16.00%,23.73%,Expansion
+2008,Asia-Pacific,Automotive Coatings,6951,2591,7.05%,46.44%,20.38%,Technological advancement
+2008,Asia-Pacific,Protective Coatings,11457,6234,12.71%,15.30%,16.84%,Technological advancement
+2008,Asia-Pacific,Powder Coatings,31734,3813,6.88%,35.69%,16.04%,Market leader
+2008,Africa,Decorative Paints,14718,4017,7.07%,34.90%,15.70%,Major sales growth
+2008,Africa,Industrial Coatings,22230,2588,5.48%,37.98%,21.39%,Market leader
+2008,Africa,Automotive Coatings,48385,8795,7.29%,23.47%,19.82%,Market leader
+2008,Africa,Protective Coatings,14384,2474,11.03%,16.70%,16.06%,Expansion
+2008,Africa,Powder Coatings,12627,3663,13.82%,40.67%,16.43%,Expansion
+2008,Europe,Decorative Paints,1814,6768,5.48%,44.82%,16.74%,Expansion
+2008,Europe,Industrial Coatings,15255,1624,5.42%,29.74%,20.27%,Major sales growth
+2008,Europe,Automotive Coatings,21631,5772,5.61%,45.67%,23.07%,Market leader
+2008,Europe,Protective Coatings,30011,4794,9.73%,11.21%,15.14%,New product line
+2008,Europe,Powder Coatings,37734,6500,5.84%,33.77%,17.40%,Market leader
+2011,India,Decorative Paints,47497,725,9.90%,47.43%,15.05%,Expansion
+2011,India,Industrial Coatings,48529,7773,14.82%,45.44%,18.74%,Major sales growth
+2011,India,Automotive Coatings,10259,319,9.05%,13.44%,21.37%,Market leader
+2011,India,Protective Coatings,29313,746,12.06%,24.83%,16.32%,Technological advancement
+2011,India,Powder Coatings,40303,248,7.00%,48.96%,22.94%,Technological advancement
+2011,Middle East,Decorative Paints,7473,3087,6.82%,47.92%,17.55%,Technological advancement
+2011,Middle East,Industrial Coatings,29694,769,5.94%,32.16%,15.93%,Market leader
+2011,Middle East,Automotive Coatings,45395,9715,12.83%,10.26%,20.66%,Major sales growth
+2011,Middle East,Protective Coatings,36195,2366,7.45%,13.46%,19.07%,New product line
+2011,Middle East,Powder Coatings,31335,2984,14.73%,23.94%,22.75%,Market leader
+2011,Asia-Pacific,Decorative Paints,28173,5527,5.38%,14.69%,17.57%,Expansion
+2011,Asia-Pacific,Industrial Coatings,26994,279,14.06%,33.67%,20.73%,Technological advancement
+2011,Asia-Pacific,Automotive Coatings,15360,9485,13.94%,33.98%,19.49%,Major sales growth
+2011,Asia-Pacific,Protective Coatings,30283,6622,11.81%,24.78%,24.62%,Technological advancement
+2011,Asia-Pacific,Powder Coatings,12066,6745,7.04%,38.35%,24.94%,Expansion
+2011,Africa,Decorative Paints,44872,8789,9.30%,25.00%,15.19%,Technological advancement
+2011,Africa,Industrial Coatings,40019,3155,8.99%,16.01%,23.24%,Market leader
+2011,Africa,Automotive Coatings,45829,7748,12.85%,31.13%,22.38%,Major sales growth
+2011,Africa,Protective Coatings,7753,4065,13.75%,43.11%,24.49%,Technological advancement
+2011,Africa,Powder Coatings,19216,8268,13.32%,19.98%,22.84%,Expansion
+2011,Europe,Decorative Paints,30283,4670,12.19%,23.45%,17.58%,Expansion
+2011,Europe,Industrial Coatings,32761,3952,9.84%,22.57%,15.30%,Market leader
+2011,Europe,Automotive Coatings,12806,414,6.57%,31.85%,24.13%,Market leader
+2011,Europe,Protective Coatings,34421,9856,5.93%,37.01%,19.35%,Major sales growth
+2011,Europe,Powder Coatings,15270,8643,13.40%,47.22%,17.81%,Market leader
+2014,India,Decorative Paints,48583,3791,10.64%,35.56%,17.94%,Technological advancement
+2014,India,Industrial Coatings,31394,2672,9.42%,26.49%,15.67%,Technological advancement
+2014,India,Automotive Coatings,6732,2964,5.31%,35.09%,24.77%,New product line
+2014,India,Protective Coatings,34120,5797,12.20%,24.15%,22.09%,Technological advancement
+2014,India,Powder Coatings,27691,5450,5.77%,10.27%,24.57%,Technological advancement
+2014,Middle East,Decorative Paints,44336,1054,6.15%,32.75%,17.74%,Market leader
+2014,Middle East,Industrial Coatings,37986,9085,11.73%,43.70%,19.52%,New product line
+2014,Middle East,Automotive Coatings,21988,7424,9.54%,44.22%,22.22%,New product line
+2014,Middle East,Protective Coatings,2851,4428,12.09%,12.48%,18.72%,Market leader
+2014,Middle East,Powder Coatings,36399,5961,10.79%,12.83%,24.00%,Technological advancement
+2014,Asia-Pacific,Decorative Paints,6523,1397,5.90%,38.54%,15.93%,Expansion
+2014,Asia-Pacific,Industrial Coatings,18846,50,14.46%,47.54%,19.58%,Market leader
+2014,Asia-Pacific,Automotive Coatings,17725,312,13.01%,13.46%,18.69%,Expansion
+2014,Asia-Pacific,Protective Coatings,23423,7095,10.21%,32.31%,23.32%,New product line
+2014,Asia-Pacific,Powder Coatings,30540,5524,8.23%,23.75%,15.57%,Market leader
+2014,Africa,Decorative Paints,22314,9495,9.19%,27.44%,20.51%,Technological advancement
+2014,Africa,Industrial Coatings,11951,3874,6.48%,16.93%,19.81%,Expansion
+2014,Africa,Automotive Coatings,4474,3050,7.94%,31.44%,17.87%,Market leader
+2014,Africa,Protective Coatings,13760,8015,13.52%,30.22%,22.56%,Technological advancement
+2014,Africa,Powder Coatings,1351,4102,10.37%,44.43%,17.93%,Market leader
+2014,Europe,Decorative Paints,38665,7283,6.12%,38.79%,22.74%,Major sales growth
+2014,Europe,Industrial Coatings,20664,2501,10.25%,40.30%,17.20%,Expansion
+2014,Europe,Automotive Coatings,12073,786,7.91%,35.48%,20.30%,Technological advancement
+2014,Europe,Protective Coatings,25673,512,10.03%,11.90%,19.52%,New product line
+2014,Europe,Powder Coatings,20101,8133,7.53%,45.49%,20.29%,New product line
+2017,India,Decorative Paints,27037,3062,11.91%,36.42%,16.11%,Major sales growth
+2017,India,Industrial Coatings,48808,8335,8.64%,44.97%,18.18%,Major sales growth
+2017,India,Automotive Coatings,39357,3574,12.86%,37.19%,17.66%,Expansion
+2017,India,Protective Coatings,26486,5316,14.51%,26.94%,18.22%,Major sales growth
+2017,India,Powder Coatings,42005,7006,14.99%,37.49%,15.39%,Major sales growth
+2017,Middle East,Decorative Paints,8166,6052,8.26%,48.21%,23.63%,Market leader
+2017,Middle East,Industrial Coatings,33249,3767,10.65%,35.14%,24.89%,Expansion
+2017,Middle East,Automotive Coatings,3823,5492,13.87%,35.70%,17.22%,Expansion
+2017,Middle East,Protective Coatings,16376,5999,10.50%,24.52%,17.68%,Market leader
+2017,Middle East,Powder Coatings,21810,9307,9.24%,38.26%,16.42%,New product line
+2017,Asia-Pacific,Decorative Paints,3602,462,6.48%,23.72%,16.20%,Expansion
+2017,Asia-Pacific,Industrial Coatings,5597,491,10.38%,43.51%,19.92%,Major sales growth
+2017,Asia-Pacific,Automotive Coatings,18931,2544,5.96%,34.78%,16.95%,New product line
+2017,Asia-Pacific,Protective Coatings,39955,5493,6.50%,45.36%,22.78%,Technological advancement
+2017,Asia-Pacific,Powder Coatings,39365,642,10.61%,39.17%,23.95%,New product line
+2017,Africa,Decorative Paints,3940,4766,5.88%,41.92%,17.77%,Market leader
+2017,Africa,Industrial Coatings,6895,8482,10.41%,49.52%,18.20%,Expansion
+2017,Africa,Automotive Coatings,44017,6355,10.30%,40.91%,22.06%,Technological advancement
+2017,Africa,Protective Coatings,34925,8916,7.82%,41.84%,22.39%,Expansion
+2017,Africa,Powder Coatings,18675,1404,13.92%,46.53%,19.14%,Market leader
+2017,Europe,Decorative Paints,11694,4164,13.19%,35.47%,22.49%,Major sales growth
+2017,Europe,Industrial Coatings,6862,7196,12.92%,20.06%,22.11%,Market leader
+2017,Europe,Automotive Coatings,25378,1613,5.87%,24.75%,19.72%,Market leader
+2017,Europe,Protective Coatings,2641,1604,11.59%,36.29%,15.48%,New product line
+2017,Europe,Powder Coatings,22603,4200,13.41%,19.91%,23.92%,Expansion
+2020,India,Decorative Paints,41303,9919,11.36%,40.79%,16.57%,Expansion
+2020,India,Industrial Coatings,44957,1745,11.94%,20.73%,15.61%,Major sales growth
+2020,India,Automotive Coatings,22726,3902,6.64%,18.35%,21.34%,Technological advancement
+2020,India,Protective Coatings,23641,8124,9.98%,17.15%,20.35%,Expansion
+2020,India,Powder Coatings,36520,3584,12.06%,40.73%,18.19%,Market leader
+2020,Middle East,Decorative Paints,31520,6532,8.07%,23.52%,18.53%,Market leader
+2020,Middle East,Industrial Coatings,44201,889,8.49%,37.81%,16.13%,Major sales growth
+2020,Middle East,Automotive Coatings,48408,9135,11.88%,17.20%,24.42%,Expansion
+2020,Middle East,Protective Coatings,7907,6275,12.64%,48.71%,24.97%,Major sales growth
+2020,Middle East,Powder Coatings,15980,9367,10.70%,39.67%,22.79%,Market leader
+2020,Asia-Pacific,Decorative Paints,15776,5916,11.79%,20.58%,18.37%,Market leader
+2020,Asia-Pacific,Industrial Coatings,28800,9507,14.31%,36.84%,21.46%,Market leader
+2020,Asia-Pacific,Automotive Coatings,22525,8378,9.40%,34.67%,15.50%,Major sales growth
+2020,Asia-Pacific,Protective Coatings,41172,4065,8.88%,20.28%,21.37%,Expansion
+2020,Asia-Pacific,Powder Coatings,34056,6773,14.08%,33.46%,16.38%,Technological advancement
+2020,Africa,Decorative Paints,27568,9402,11.13%,45.05%,21.06%,New product line
+2020,Africa,Industrial Coatings,15579,5407,13.48%,38.41%,21.21%,New product line
+2020,Africa,Automotive Coatings,49013,2960,8.95%,11.37%,21.57%,New product line
+2020,Africa,Protective Coatings,46870,3339,9.62%,41.89%,23.71%,Technological advancement
+2020,Africa,Powder Coatings,16237,6350,5.12%,12.99%,22.29%,Technological advancement
+2020,Europe,Decorative Paints,39773,4751,6.17%,10.24%,17.50%,Major sales growth
+2020,Europe,Industrial Coatings,12039,6142,9.58%,35.88%,15.44%,Market leader
+2020,Europe,Automotive Coatings,12768,6900,7.82%,41.90%,19.56%,New product line
+2020,Europe,Protective Coatings,4830,6899,13.85%,27.83%,19.47%,Technological advancement
+2020,Europe,Powder Coatings,8070,6440,7.58%,29.83%,22.51%,Technological advancement
+2023,India,Decorative Paints,31839,1069,11.40%,12.69%,20.48%,Market leader
+2023,India,Industrial Coatings,15069,285,14.99%,17.52%,16.37%,Major sales growth
+2023,India,Automotive Coatings,22715,5115,11.99%,46.91%,15.99%,New product line
+2023,India,Protective Coatings,38000,2946,14.11%,33.28%,21.42%,Technological advancement
+2023,India,Powder Coatings,10109,4213,9.96%,25.17%,16.35%,New product line
+2023,Middle East,Decorative Paints,8136,7344,12.36%,34.48%,19.60%,New product line
+2023,Middle East,Industrial Coatings,46336,435,11.56%,20.13%,21.18%,New product line
+2023,Middle East,Automotive Coatings,42736,8844,9.57%,26.56%,23.45%,Expansion
+2023,Middle East,Protective Coatings,33924,1335,14.84%,23.68%,22.74%,Expansion
+2023,Middle East,Powder Coatings,13040,8508,14.85%,41.46%,19.42%,Major sales growth
+2023,Asia-Pacific,Decorative Paints,26064,9758,7.01%,29.55%,19.51%,Major sales growth
+2023,Asia-Pacific,Industrial Coatings,49712,7261,5.61%,18.33%,17.64%,Technological advancement
+2023,Asia-Pacific,Automotive Coatings,3877,9779,13.19%,29.09%,19.92%,Technological advancement
+2023,Asia-Pacific,Protective Coatings,37925,5651,14.36%,39.07%,21.12%,Expansion
+2023,Asia-Pacific,Powder Coatings,16122,7902,12.69%,18.41%,22.36%,Expansion
+2023,Africa,Decorative Paints,17113,3845,14.89%,27.87%,17.19%,Expansion
+2023,Africa,Industrial Coatings,34046,2930,9.94%,32.50%,20.09%,Expansion
+2023,Africa,Automotive Coatings,24969,4875,9.95%,32.88%,17.62%,Technological advancement
+2023,Africa,Protective Coatings,24481,9296,11.71%,23.85%,21.27%,New product line
+2023,Africa,Powder Coatings,45675,2623,9.01%,39.87%,15.69%,Expansion
+2023,Europe,Decorative Paints,10112,2997,7.98%,36.46%,16.53%,Technological advancement
+2023,Europe,Industrial Coatings,47494,7711,5.07%,28.23%,16.80%,Expansion
+2023,Europe,Automotive Coatings,30409,4879,5.32%,18.63%,24.57%,New product line
+2023,Europe,Protective Coatings,13664,7251,5.50%,38.68%,16.65%,Technological advancement
+2023,Europe,Powder Coatings,3290,7332,12.02%,10.30%,18.13%,Technological advancement
